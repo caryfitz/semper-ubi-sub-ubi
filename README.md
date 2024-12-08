@@ -1,6 +1,6 @@
 # Open source box  "Semper ubi sub ubi"
 
-<img src="closed.jpg" alt="Alt Text" style="width:50%; height:auto;">!
+<img src="open.jpg" alt="Alt Text" style="width:50%; height:auto;">!
 
 ## Build instructions
 
@@ -10,3 +10,4 @@ including any adjustments you made for materials, etc.
 ## Support files
 * [Raw SVG](drawing.svg)
 * [XCS](drawing.xcs)
+* [QR code image](qr.png)

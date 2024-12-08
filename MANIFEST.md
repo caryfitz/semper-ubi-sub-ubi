@@ -1,4 +1,4 @@
-## Register - watch-me-dance - run of 25
+## Register - Semper-ubi-sub-ubi - run of 25
 
 * Maker:  who are you?  Real names are great, internet cats welcome!
 * Recipient:  Who did make it for?  Same hopes on names
@@ -7,5 +7,5 @@
 
 | Number | Maker             | Date           | Recipient        | Customizations | Story |
 | ------ | -----             | -----          | ---------        | -------------- | ------ |
-| 1      | Cary FitzGerald   | August 2024    | For Rob          | None           | Rob originally told me the joke |
+| 1      | Cary FitzGerald   | August 2024    | For Rob          | None           | Joke from Father Percelli |
 | 2-10   | Cary FitzGerald   | December 2024 | Boelyn art fest  | -              | -        |
