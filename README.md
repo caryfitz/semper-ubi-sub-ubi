@@ -1,6 +1,7 @@
 # Open source box  "Semper ubi sub ubi"
 
 <img src="open.jpg" alt="Alt Text" style="width:50%; height:auto;">!
+<img src="closed.jpg" alt="Alt Text" style="width:50%; height:auto;">!
 
 ## Build instructions
 
